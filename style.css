@@ -9,3 +9,13 @@
     height: 50px;
     margin: 20px;
 }
+
+:root {
+    --primary-color: #ff6b35;
+    --dark: #1a1a1a;
+    --gray: #6c757d;
+    --light: #f8f9fa;
+    --radius: 16px;
+    --shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
